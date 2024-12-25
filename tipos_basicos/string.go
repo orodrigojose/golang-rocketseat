@@ -5,7 +5,7 @@ import (
 	"strings"
 )
 
-func main() {
+func own_main() {
 	var hello string = "Olá, mundo!"
 	var question string = "Como vai?"
 
